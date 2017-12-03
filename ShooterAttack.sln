@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShooterAttack", "ShooterAttack\ShooterAttack.csproj", "{9BEFAC46-22DE-4BAA-8FA6-FBF65B46963C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BEFAC46-22DE-4BAA-8FA6-FBF65B46963C}.Debug|x86.ActiveCfg = Debug|x86
+		{9BEFAC46-22DE-4BAA-8FA6-FBF65B46963C}.Debug|x86.Build.0 = Debug|x86
+		{9BEFAC46-22DE-4BAA-8FA6-FBF65B46963C}.Release|x86.ActiveCfg = Release|x86
+		{9BEFAC46-22DE-4BAA-8FA6-FBF65B46963C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B41BB7A-EE38-479D-802D-618B735899CA}
+	EndGlobalSection
+EndGlobal
